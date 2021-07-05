@@ -1,0 +1,26 @@
+*.vscode
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+*.py[cod]
+*$py.class
+pip-wheel-metadata/
+share/python-wheels/
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+# .env
+virtualE
+*.env
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
