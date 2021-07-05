@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Type in terminal to access shell then proceed with code -->  python manage.py shell
+
 from django.contrib.sessions.models import Session
 from django.contrib.auth.models import User
 
